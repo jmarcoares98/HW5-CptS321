@@ -1,0 +1,14 @@
+C:\Users\juan_\Documents\CptSci 321\HW5\HW5\bin\Debug\HW5.exe.config
+C:\Users\juan_\Documents\CptSci 321\HW5\HW5\bin\Debug\HW5.exe
+C:\Users\juan_\Documents\CptSci 321\HW5\HW5\bin\Debug\HW5.pdb
+C:\Users\juan_\Documents\CptSci 321\HW5\HW5\obj\Debug\HW5.csprojAssemblyReference.cache
+C:\Users\juan_\Documents\CptSci 321\HW5\HW5\obj\Debug\HW5.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\CptSci 321\HW5\HW5\obj\Debug\HW5.exe
+C:\Users\juan_\Documents\CptSci 321\HW5\HW5\obj\Debug\HW5.pdb
+C:\Users\juan_\Documents\CptSci 321\cpts-321\Marco_Ares_11526185_CptS321_HW5\HW5\bin\Debug\HW5.exe.config
+C:\Users\juan_\Documents\CptSci 321\cpts-321\Marco_Ares_11526185_CptS321_HW5\HW5\bin\Debug\HW5.exe
+C:\Users\juan_\Documents\CptSci 321\cpts-321\Marco_Ares_11526185_CptS321_HW5\HW5\bin\Debug\HW5.pdb
+C:\Users\juan_\Documents\CptSci 321\cpts-321\Marco_Ares_11526185_CptS321_HW5\HW5\obj\Debug\HW5.csprojAssemblyReference.cache
+C:\Users\juan_\Documents\CptSci 321\cpts-321\Marco_Ares_11526185_CptS321_HW5\HW5\obj\Debug\HW5.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\CptSci 321\cpts-321\Marco_Ares_11526185_CptS321_HW5\HW5\obj\Debug\HW5.exe
+C:\Users\juan_\Documents\CptSci 321\cpts-321\Marco_Ares_11526185_CptS321_HW5\HW5\obj\Debug\HW5.pdb
